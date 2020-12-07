@@ -8,7 +8,7 @@ private String name;
 private String email;
 private String phoneNumber;
 
-//constructor
+//Constructor
 public Person(String anotherName, String anotherEmail, String anotherNumber){
   name = anotherName;
   email = anotherEmail;
